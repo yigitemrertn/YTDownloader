@@ -1,0 +1,10 @@
+C:\Users\yigit\Desktop\Yazılım\YTDownloader\YTDownloader\bin\Debug\YTDownloader.exe.config
+C:\Users\yigit\Desktop\Yazılım\YTDownloader\YTDownloader\bin\Debug\YTDownloader.exe
+C:\Users\yigit\Desktop\Yazılım\YTDownloader\YTDownloader\bin\Debug\YTDownloader.pdb
+C:\Users\yigit\Desktop\Yazılım\YTDownloader\YTDownloader\obj\Debug\YTDownloader.csproj.AssemblyReference.cache
+C:\Users\yigit\Desktop\Yazılım\YTDownloader\YTDownloader\obj\Debug\YTDownloader.Form1.resources
+C:\Users\yigit\Desktop\Yazılım\YTDownloader\YTDownloader\obj\Debug\YTDownloader.Properties.Resources.resources
+C:\Users\yigit\Desktop\Yazılım\YTDownloader\YTDownloader\obj\Debug\YTDownloader.csproj.GenerateResource.cache
+C:\Users\yigit\Desktop\Yazılım\YTDownloader\YTDownloader\obj\Debug\YTDownloader.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\Yazılım\YTDownloader\YTDownloader\obj\Debug\YTDownloader.exe
+C:\Users\yigit\Desktop\Yazılım\YTDownloader\YTDownloader\obj\Debug\YTDownloader.pdb
