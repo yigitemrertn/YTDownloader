@@ -31,3 +31,6 @@ FFmpeg is a powerful multimedia framework that allows you to decode, encode, tra
 - Type the following command:
 ````sh
 ffmpeg -version
+````
+# How to execute app
+### **Path**: `YTDownloader/bin/Debug/YTDownloader.exe`
